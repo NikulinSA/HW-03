@@ -6,8 +6,8 @@ LICENSE: [MIT](/license.md)
 
 ---
 ### Содержание:
-1. [Главная страница](/HTML/index.html)
-2. [Обо мне](/HTML/about.html)
-3. [Контакты](/HTML/contacts.html)
+1. [Главная страница](/index.html)
+2. [Обо мне](/about.html)
+3. [Контакты](/contacts.html)
 
 ---
